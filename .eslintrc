@@ -1,0 +1,16 @@
+{
+    "env": {
+        "browser": true,
+        "node": true,
+        "amd": true,
+    },
+    "rules": {
+        "camelcase": false,
+        "quotes": [1, "single"],
+        "handle-callback-err": false,
+        "no-underscore-dangle": false
+    },
+    "globals": {
+        "console": true
+    }
+}
