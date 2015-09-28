@@ -4,6 +4,10 @@ Basic project template to get up and running fast and hack some stuff together
 
 ## Setup
 
+Go to new project directory then run
+
+    git clone git@github.com:indiefolk/prototyping-template.git . && rm -rf .git
+
     npm install
 
     bower install
